@@ -1,11 +1,32 @@
 [
     {
         "title": "What is the Good time for Meditation?",
-        "message": "<div dir= auto >Any time is good to meditate because something is better than nothing&nbsp;</div> <div dir= auto >However ....</div> <div dir= auto >1. Early morning time has the highest number of active neurons in the brain ( 4am to 6 am ). This will do magic</div> <div dir= auto >2. Evening time is 2nd priority ( 6 pm to 7 pm )</div> <div dir= auto >Or Sunset time</div> <div dir= auto >3. Mid noon 12 to 1</div> <div dir= auto >&nbsp;</div> <div dir= auto >All there times are called as trikala sandhya ( 3 time transitions) in ancient yogic science&nbsp;</div> <div dir= auto >&nbsp;</div> <div dir= auto >Another thing you need to understand your stomach should be 80% empty while meditation then only prana energy will flow seamlessly in the body.</div> <div dir= auto >&nbsp;</div>"
+        "message": "<div dir= auto >Any time is good to meditate because something is better than nothing&nbsp;</div> <div dir= auto >However ...</div> <div dir= auto >1. Early morning time has the highest number of active neurons in the brain ( 4 AM to 6 AM ). This will do magic</div> <div dir= auto >2. Evening time is 2nd priority ( 6 PM to 7 PM )</div> <div dir= auto >Or Sunset time</div> <div dir= auto >3. Mid noon 12 to 1</div> <div dir= auto >&nbsp;</div> <div dir= auto >All three times are called as trikala sandhya ( 3 time transitions) in Ancient Yogic science&nbsp;</div> <div dir= auto >&nbsp;</div> <div dir= auto >Another thing you need to understand your stomach should be 80% empty while meditation then only prana energy will flow seamlessly in the body.</div> <div dir= auto >&nbsp;</div>"
         ,
         "imageUrl": "",
         "url": "",
         "audioUrl": "",
-        "youtubePromoUrl": ""       
+        "youtubePromoUrl": "" ,
+        "category":"Meditation"      
+    },
+    {
+        "title": "Where should one sit for meditation ?",
+        "message": "<p>You can sit or lay down on a bed only for the basic meditations.During advanced meditation practices there are much transition states so don't sit <br />on a bed as there are chances of injury.<br />Never sit directly on the floor or earth as the cosmic current which passes into the body during meditation will go out.Sitting on the same mat and not using that for anything else produces wonderful benefits. Do it yourself to feel the same.</p>"
+        ,
+        "imageUrl": "",
+        "url": "",
+        "audioUrl": "",
+        "youtubePromoUrl": "" ,
+        "category":"Meditation"       
+    },
+    {
+        "title": "I don't have a private room for meditation so what else can be the best place for meditation ?",
+        "message": "<p>A place without much noise ,having less people or no people and darker as much as possible is favorable for meditation. You are recommended to use the same place everyday in order to create positive vibes there. At an advanced level meditation will happen to you anywhere , anytime in any position.</p>"
+        ,
+        "imageUrl": "",
+        "url": "",
+        "audioUrl": "",
+        "youtubePromoUrl": "",
+        "category":"Meditation"  
     }
 ]

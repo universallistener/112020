@@ -1,9 +1,36 @@
 [
     {
-        "title": "Value of a Mantra",
+        "title": "Value Of A Mantra",
         "subtitle":"",
         "content": "",
         "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/powerofamantra.jpg",
+        "url": "",
+        "youtubePromoUrl": "" 
+    }
+    ,
+    {
+        "title": "Two Sages And A Lady",
+        "subtitle":"",
+        "content": "",
+        "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/twosagesandalady.jpg",
+        "url": "",
+        "youtubePromoUrl": "" 
+    }
+    ,
+    {
+        "title": "A Thief Became A Saint",
+        "subtitle":"",
+        "content": "",
+        "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/athiefbecamesaint.jpg",
+        "url": "",
+        "youtubePromoUrl": "" 
+    }
+    ,
+    {
+        "title": "A Poor Villager Overpowered A Saint",
+        "subtitle":"",
+        "content": "",
+        "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/apoorvillager.jpg",
         "url": "",
         "youtubePromoUrl": "" 
     }

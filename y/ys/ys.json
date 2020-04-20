@@ -1,37 +1,38 @@
 [
     {
         "title": "Value Of A Mantra",
-        "subtitle":"",
-        "content": "",
+        "subtitle": "",
+        "name": "valueofamantra",
+        "content": " <p><strong>Asakti or Attachments</strong></p><p><span style=font-weight: 400;>Asakti is very dangerous for the spiritual aspirants. The way to overcome this is vairagya or developing a quality of detachment towards mundane things.&nbsp;</span></p> <p><span style=font-weight: 400;>Ways to develop vairagya are&nbsp;</span></p>",
         "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/powerofamantra.jpg",
         "url": "",
-        "youtubePromoUrl": "" 
-    }
-    ,
+        "youtubePromoUrl": ""
+    },
     {
         "title": "Two Sages And A Lady",
-        "subtitle":"",
+        "subtitle": "",
+        "name": "twosagesandalady",
         "content": "",
         "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/twosagesandalady.jpg",
         "url": "",
-        "youtubePromoUrl": "" 
-    }
-    ,
+        "youtubePromoUrl": ""
+    },
     {
         "title": "A Thief Became A Saint",
-        "subtitle":"",
+        "subtitle": "",
+        "name": "athiefbecameasaint",
         "content": "",
         "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/athiefbecamesaint.jpg",
         "url": "",
-        "youtubePromoUrl": "" 
-    }
-    ,
+        "youtubePromoUrl": ""
+    },
     {
         "title": "A Poor Villager Overpowered A Saint",
-        "subtitle":"",
+        "subtitle": "",
+        "name": "apoorvillager",
         "content": "",
         "imageUrl": "https://raw.githubusercontent.com/universallistener/112020/master/y/ys/apoorvillager.jpg",
         "url": "",
-        "youtubePromoUrl": "" 
+        "youtubePromoUrl": ""
     }
 ]
